@@ -30,6 +30,4 @@ touch hello
 6.A bash script to assign exe permissions to the owner of a file.
 
 #!/bin/bash
-chmod 100 hello
-
- 
+chmod 744 hello 
