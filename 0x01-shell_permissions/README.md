@@ -27,4 +27,9 @@ sudo chown betty hello
 #!/bin/bash
 touch hello
 
-6. 
+6.A bash script to assign exe permissions to the owner of a file.
+
+#!/bin/bash
+chmod 100 hello
+
+ 
