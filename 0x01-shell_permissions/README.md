@@ -12,4 +12,8 @@ su - Betty
 #!/bin/bash
 whoami
 
-3. 
+3. A bash scripts that lists all groups the current user is in
+#!/bin/bash
+groups
+
+
